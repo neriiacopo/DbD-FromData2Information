@@ -11,7 +11,7 @@ This repository is produced within the ENPC Design by Data - From Data to Inform
 ## Installation
 1. **[create a repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)**
   - open a Terminal (mac) or run PowerShell (win)
-  - change directory to access the repository `example: cd /Users/xxx/Desktop/city-dna`
+  - change directory to access the repository `example: cd /Users/xxx/Desktop/Data_to_Information`
 2. **[virtual environment](https://docs.python.org/3/tutorial/venv.html)**
   - with only Python3 installed `python -m venv env_DATAtoINF`
   - if Python2 and Python3 installed `python3 -m venv env_DATAtoINF`
